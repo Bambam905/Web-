@@ -1,0 +1,8 @@
+{
+    "name": "Personal_Site",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "thomp",
+    "contributors": [],
+    "dependencies": {}
+}
