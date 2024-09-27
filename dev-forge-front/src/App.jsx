@@ -10,6 +10,7 @@ import LearningPath from './components/LearningPath';
 import Contact from './components/Contact';
 import Navbar from './components/Navbar';
 import Challenge from './components/Challenge';
+import Home from './components/Home';
 
 function App() {
 
@@ -34,7 +35,7 @@ function App() {
           <Route path="/contact" element={<Contact />}></Route>
           <Route path="/project" element={<Project />}></Route>
           <Route path="/challenge" element={<Challenge />}></Route>
-
+          <Route path="/home" element={<Home />}></Route>
         </Routes>
       </div>
 
