@@ -7,11 +7,11 @@ const LearningPath = () => {
 
     // Test data for learning modules
     const intialModules = [
-        { id: 1, title: 'Introduction to Full Stack Development', completed: false },
-        { id: 2, title: 'Java Spring MVC Basics', completed: false },
-        { id: 3, title: 'React Basics', completed: false },
+        { id: 1, title: 'Full Stack Development applications', completed: false },
+        { id: 2, title: 'Java Spring MVC projects', completed: false },
+        { id: 3, title: 'React front-end projects', completed: false },
         { id: 4, title: 'MySQL Database Management', completed: false },
-        { id: 5, title: 'Introduction to AWS', completed: false },
+        { id: 5, title: 'AWS development and implentations', completed: false },
         { id: 6, title: 'Docker for Developers', completed: false },
         { id: 7, title: 'Test-Driven Development (TDD)', completed: false },
         { id: 8, title: 'API Development', completed: false },
